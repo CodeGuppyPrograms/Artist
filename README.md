@@ -11,7 +11,11 @@ By coding Artist, you’ll learn important concepts such as:
 -	How to generate code automatically
  
 ## Source code 
+<<<<<<< HEAD
 The JavaScript source code of this program can be found [here](sketchesprogram.js). To run it, you need to import it in the [codeguppy.com](https://codeguppy.com) online editor. Alternatively, you can use the source code in your p5.js sketches (advanced use). 
+=======
+The JavaScript source code of this program can be found [here](sketches/program.js). To run it, you need to import it in the [codeguppy.com](https://codeguppy.com) online editor. Alternatively, you can use the source code in your p5.js sketches (advanced use). 
+>>>>>>> f6996617c4590c4d4905c6da57bad3610b4cba1b
 ## Online version 
 To see the code running, check the online playground at [https://codeguppy.com/code.html?t=artist](https://codeguppy.com/code.html?t=artist) 
 ## Next steps 
